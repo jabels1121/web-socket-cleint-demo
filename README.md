@@ -1,2 +1,2 @@
 # web-socket-cleint-demo
-Testing java websocket client. Integrate with web-socket-demo project.
+Testing java websocket client. Integrate with - https://github.com/jabels1121/web-socket-demo
